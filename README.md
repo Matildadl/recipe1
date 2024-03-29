@@ -17,7 +17,9 @@ here is my wireframe for the project:
 
 
 
+<img width="576" alt="pp1 sida1" src="https://github.com/Matildadl/recipe1/assets/163171713/0c691e52-54ef-4645-a909-c8715654828b">
 
+<img width="576" alt="pp1sida2" src="https://github.com/Matildadl/recipe1/assets/163171713/c10bf0aa-9366-4ea8-b7a7-da7c995dfcb2">
 
-
+<img width="576" alt="pp1 sida3" src="https://github.com/Matildadl/recipe1/assets/163171713/17cc2636-c003-45e4-b46a-973de20c5fc9">
 
