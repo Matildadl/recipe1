@@ -1,5 +1,7 @@
 body {
     background-color: rosybrown;
+    background-image: url("../images/bengansblogg-naturbilder-003.webp") cover no-repeat center;
+    background-attachment: fixed;
 }
 
 #recept1 {
