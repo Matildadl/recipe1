@@ -1,21 +1,49 @@
 body {
-    background-color: rosybrown;
-    background-image: url("../images/bengansblogg-naturbilder-003.webp") cover no-repeat center;
-    background-attachment: fixed;
+    background-color: bisque;
+    
+    
+}
+/* nav links*/
+.container a {
+    display: inline-block; 
+    margin-right: 10px;
+    text-decoration: none; 
+    padding: 5px 10px;
+    background-color: #c13333; 
+    color: #1a0707; 
+    border-radius: 5px; 
 }
 
+.container a:hover {
+    background-color: #451c1c; 
+    color: #2dae26; 
+}
 #recept1 {
     text-align: left;
 }
 
 p {
-    color:blueviolet;
+    color: darkslategrey;
 }
 
 li {
-    color:darkgoldenrod;
+    color: darkslategrey;
 }
 
 .menu1 {
     padding-left: 120px;
+}
+/*place for list and to do*/
+
+.container {
+    display: flex;
+}
+
+.content {
+    flex: 1; 
+}
+
+.sidebar {
+    flex: 1; 
+    text-align: right; 
 }
