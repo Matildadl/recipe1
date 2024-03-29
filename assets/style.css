@@ -50,7 +50,7 @@ li {
     margin-right: 10px;
     text-decoration: none; 
     padding: 5px 10px;
-    background-color: #0a0202; 
+    background-color: none; 
     color: #1a0707; 
     border-radius: 5px; 
    }
