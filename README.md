@@ -23,3 +23,5 @@ here is my wireframe for the project:
 
 <img width="576" alt="pp1 sida3" src="https://github.com/Matildadl/recipe1/assets/163171713/17cc2636-c003-45e4-b46a-973de20c5fc9">
 
+links that I have used:
+https://kit.fontawesomfont-style: italic;e.com/f9f2ef5930.js (fontawesome)
